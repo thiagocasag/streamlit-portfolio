@@ -13,5 +13,5 @@ def home():
     ---
     """)
     
-    st.image("foto_Thiago.jpg", width=300, caption="Thiago Casagrande — profissional de dados.")
+    # st.image("foto_Thiago.jpg", width=300, caption="Thiago Casagrande — profissional de dados.")
 
